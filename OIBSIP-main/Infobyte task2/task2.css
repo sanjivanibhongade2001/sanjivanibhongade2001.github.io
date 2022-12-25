@@ -1,0 +1,132 @@
+.nav-item {
+    margin-right: 4em;
+}
+
+.logo {
+    width: 5em;
+}
+
+nav.navbar,
+body {
+    background: #000;
+}
+
+h1[id="Sanjivani"] {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3.5em;
+    margin-top: 0.3em;
+}
+
+h1.display-4 {
+    font-weight: bold;
+}
+
+a {
+    color: white;
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+img[id="photo"] {
+    width: 35em;
+    margin-left: -1em;
+}
+
+div.row {
+    width: 100%;
+}
+
+.col-sm {
+    padding-left: 0% !important;
+}
+
+div[id="2ndcol"] {
+    margin-top: 10em;
+}
+
+button {
+    margin-top: 2em;
+}
+
+button[id="btn1"] {
+    padding: 1em 3em;
+    background: rgb(253, 94, 200);
+    color: white;
+    font-weight: bold;
+    border-radius: 0.5em;
+}
+
+button[id="btn2"] {
+    padding: 1em 3em;
+    border: 5px solid rgb(253, 94, 200);
+    color: white;
+    background-color: #000;
+    font-weight: bold;
+    border-radius: 0.5em;
+    margin-left: 0.5em;
+}
+
+.firstsection {
+    height: 10em;
+}
+
+div.container-fluid {
+    padding: 0% !important;
+}
+
+
+/** Second part***/
+
+#secondpart {
+    margin-top: -2em;
+    margin-bottom: -48em;
+    height: 100em;
+    background-color: rgb(36, 36, 36);
+    clip-path: polygon(0 0, 100% 5%, 100% 55%, 0 50%);
+}
+
+#twoh {
+    padding-top: 1em;
+    font-size: 5em;
+}
+
+#skills {
+    font-weight: bold;
+}
+
+#sfr {
+    font-size: 1.5em;
+}
+
+#sectwo {
+    margin-right: 2em;
+}
+
+#sectionthree {
+    margin-top: 5em !important;
+    margin: 0em 2em;
+    background: #000;
+    height: 30em;
+    border: 3px solid white;
+    border-radius: 2em;
+}
+
+#contact {
+    font-weight: 400;
+}
+
+.p {
+    margin-top: 2em;
+    margin-left: 5em;
+}
+
+i[id="icons"] {
+    color: white;
+    font-size: 2em;
+}
+
+#sma {
+    margin-left: 15em;
+    margin-top: 5em;
+}
