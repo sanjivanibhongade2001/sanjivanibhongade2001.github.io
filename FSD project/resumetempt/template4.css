@@ -1,0 +1,19 @@
+.myimg{
+    border: 1px solid #cb5ca4;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#cv-template{
+    display: none;
+
+}
+.background{
+    background-color: #af52a6;
+}
+#resume-form{
+    display: ;
+}
